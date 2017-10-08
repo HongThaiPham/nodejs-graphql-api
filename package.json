@@ -10,11 +10,14 @@
   "scripts": {
     "watch": "babel -w src/ -d dist/",
     "build": "babel src/ -d dist/",
-    "serve":"babel -w src/ -d dist/ | nodemon --watch dist -- index.js"
+    "serve": "babel -w src/ -d dist/ | nodemon --watch dist -- index.js"
   },
   "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
-    "express": "^4.16.1"
+    "babel-preset-stage-0": "^6.24.1"
   }
 }

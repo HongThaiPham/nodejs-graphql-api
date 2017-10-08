@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\hongt\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\hongt\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\hongt\bin;C:\Users\hongt\AMD APP SDK\2.9-1\bin\x86_64;C:\Users\hongt\AMD APP SDK\2.9-1\bin\x86;C:\Program Files (x86)\AMD APP SDK\2.9-1\bin\x86_64;C:\Program Files (x86)\AMD APP SDK\2.9-1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\dotnet;C:\Program Files\PuTTY;C:\Program Files (x86)\GTK2-Runtime\bin;C:\Users\hongt\AppData\Local\Microsoft\WindowsApps;C:\Users\hongt\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Heroku\bin;C:\Users\hongt\AppData\Local\Microsoft\WindowsApps;C:\Users\hongt\AppData\Local\now-cli;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.1.0
+
+Node version: 
+  6.10.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\hongt\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:86923:59)
+      at Object.<anonymous> (C:\Users\hongt\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:81471:38)
+      at next (native)
+      at step (C:\Users\hongt\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:92:30)
+      at C:\Users\hongt\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:103:13
+      at process._tickCallback (internal/process/next_tick.js:103:7)

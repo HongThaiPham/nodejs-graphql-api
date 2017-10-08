@@ -13,7 +13,9 @@
     "serve": "babel -w src/ -d dist/ | nodemon --watch dist -- index.js"
   },
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.16.1",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
